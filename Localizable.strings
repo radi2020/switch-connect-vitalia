@@ -1,0 +1,70 @@
+/* 
+  Localizable.strings
+  phbox
+
+  Created by FILALI MOHAMED on 21/04/2017.
+  Copyright © 2017 FILALI MOHAMED. All rights reserved.
+*/
+
+"att" = "Attention";
+"ok" = "OK";
+"can" = "CANCEL";
+"wait" = "Wait …";
+"info" = "Info";
+"err" = "Error";
+"loading" = "Loading";
+"connexion" = "Connection";
+"local" = "Local";
+"internet" = "Internet";
+"alert" = "Alert";
+"network" = "Network";
+"password" = "Password";
+
+"txalert" = "Your Equipment is out of range";
+"localmode" = "Local Mode";
+
+"alertcon" = "Confirm that you are within a short distance of your LivePool equipment.
+make sure it's plugged in.";
+
+"alertcon2" = "Your equipment is not yet configured in internet mode.
+configure it in local mode";
+
+"qrcode1" = "This Qr Code does not relate to the LivePool.";
+"qrcode2" = "This Qr Code does not relate to the LivePool Server.";
+"txtconne" = "Please choose the connection mode.";
+"txtchmode" = "To take into account the change of the network name, you must restart your box.";
+
+"txthoraire" = "Please fill the previous time slot.";
+
+
+"proph" = "If you enable this function, you must go through the procedure. Prepare PH 4 and PH 7  buffer solutions";
+"tarendph" = "Calibration finished. Leave your probe in the PH7 solution to check and validate your calibration (+/- 0.2)";
+"againph" = "The reference PH value must be between 6 and 9, the injection and restoration times must not exceed 4 hours (240 min), try again?";
+
+"prorx" = "If you enable this function, you must go through the procedure. Prepare a buffer solution";
+"tarendrx" = "Calibration finished. Leave your probe in the buffer solution to check and validate your calibration (+/- 25mV)";
+"againrx" = "The reference ORP value must be between 200mV and 1000mV, the injection and restoration times must not exceed 4 hours (240 min), try again?";
+"againtamprx" = "The Buffer solution value must be between 200mV and 1000mV, try again?";
+
+"dis" = "Don't forget to disconnect from LivePool Wifi Network";
+"againco" = "The unlock pattern must connect at least 3 dots, try again?";
+"sure" = "Make sure all the boxes you have are on before editing the unlock pattern.";
+
+"againw" = "Channel names must be between 2 and 14 characters long.The delays must not exceed 4H (240m). Try again ?";
+
+"namode" = "Automatic mode unavailable, you need water temperature sensor.";
+"nagel" = "Frost protection  unavailable, you need the air temperature sensor.";
+"againpu" = "The frost protection threshold must be between -5°C and +5°C, try again?";
+
+"againl" = "The delay must not exceed 4H (240m). Try again ?";
+
+
+
+"infotxt" = "Verify your sonde please .";
+
+"txtreset" = "Would you like to reset your network name. Make sure all devices are reset.";
+"txtupdate" = "You are about to change the name of your network. \n To take it into account, you must restart all the boxes on your network (Power off, then power on) and restart your application.";
+"txtinfo" = "Please complete these fields.";
+
+"txtdem1" = "For security reasons,\n We urge you to immediately change your lock pattern.";
+"txtdem2" = "For security reasons,\n We invite you to immediately change the name of your access point.";
